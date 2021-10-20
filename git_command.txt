@@ -1,0 +1,13 @@
+git init to initialize the repository
+git add .
+git commit -m "message"
+git status
+git log-(hit q to exit)
+git checkout (unique commit id)
+
+
+#git remote commands
+git remote add origin(https or url of the repository)
+# git remote -v
+git push origin master
+git pull origin masterq

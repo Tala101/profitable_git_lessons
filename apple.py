@@ -1,0 +1,2 @@
+password = "Giants"
+Print(password)
